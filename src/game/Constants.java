@@ -5,7 +5,8 @@ public class Constants {
 
 	// ----- constants for game play -----
 
-	public static final String FILENAME = "/Users/nanalelfe/html/vacuum_race/vacuum_race_inner/src/grid1.txt"; // set to your path
+	//public static final String FILENAME = "src/grid1.txt"; // set to your path
+	public static final String FILENAME = "grid1.txt"; // set to your path
 
 	public static final String UI_TYPE = "text"; // set to "text" or "gui"
 

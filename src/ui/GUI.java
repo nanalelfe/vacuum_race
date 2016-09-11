@@ -34,7 +34,7 @@ public class GUI extends JFrame implements UI {
 	@Override
 	public void launchGame() {
 		this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-
+		this.setResizable(false);
 		
 		Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize();
 	    int x = (int) ((dimension.getWidth() - this.getWidth()) / 5);
