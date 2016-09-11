@@ -42,6 +42,17 @@ $ javac game/Play.java
 $ java game.Play
 
 ```
+Player 1:
+* Move left: 'a'
+* Move right: 'd'
+* Move up: 'w'
+* Move down: 's'
+
+Player 2:
+* Move left: 'j'
+* Move right: 'l'
+* Move up: 'i'
+* Move down: 'k'
 
 ## Built With
 * Java
